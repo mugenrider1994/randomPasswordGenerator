@@ -1,5 +1,10 @@
 // Assignment code here
-
+var specialCharacters = ("");
+var upperCase = [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z];
+var lowerCase = [abcdefghijklmnopqrstuvwxyz];
+var numbers = [1234567890];
+var minNumberOfChars = 8;
+var maxNumberOfChars = 128;
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
