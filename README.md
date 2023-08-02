@@ -39,4 +39,4 @@ As of now, the Challenge3 Random Password Generator is functional and generating
 Feel free to try out the Challenge3 Random Password Generator and contribute to making it even better!
 
 ## Deployment
-https://mugenrider1994.github.io/challenge3/
+https://github.com/mugenrider1994/randomPasswordGenerator
