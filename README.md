@@ -37,3 +37,6 @@ This project is licensed under the MIT License. You can find more details in the
 As of now, the Challenge3 Random Password Generator is functional and generating random passwords based on user criteria. Potential updates or improvements may be made in the future, but the project is currently in a stable state.
 
 Feel free to try out the Challenge3 Random Password Generator and contribute to making it even better!
+
+## Deployment
+https://mugenrider1994.github.io/challenge3/
